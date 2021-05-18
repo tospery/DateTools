@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'DateToolsSwift-JX'
-  s.version      = '5.0.0-jx1'
+  s.version      = '5.0.0-jx2'
   s.summary      = 'Dates and time made easy in Swift'
   s.homepage     = 'https://github.com/tospery/DateTools'
 
